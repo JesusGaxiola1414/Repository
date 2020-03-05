@@ -1,2 +1,0 @@
-# Repository
-ClubN_ConRepository
